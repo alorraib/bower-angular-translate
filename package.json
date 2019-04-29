@@ -1,0 +1,16 @@
+{
+  "name": "bower-angular-translate",
+  "version": "2.0.0",
+  "description": "A translation module for AngularJS",
+  "main": "angular-translate.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alorraib/bower-angular-translate.git"
+  },
+  "author": "Pascal Precht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alorraib/bower-angular-translate/issues"
+  },
+  "homepage": "https://github.com/alorraib/bower-angular-translate#readme",
+}
